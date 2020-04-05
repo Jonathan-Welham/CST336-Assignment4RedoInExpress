@@ -1,0 +1,12 @@
+body {
+  background-color:black;
+  color:grey;
+}
+
+nav a {
+  padding: 15px;
+  padding-bottom: 4px;
+  font-size: 1.8em;
+  text-decoration: none;
+  color: white;
+}
